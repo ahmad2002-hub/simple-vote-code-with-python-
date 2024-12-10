@@ -14,9 +14,7 @@ for i in range (1,3,1):
         s=input("the only accept answars  is (ok ,nonok,abs) ")
     
     dic1[key]=s
-
-dic1.update(dic)
-print(dic1)
+print(dic1,dic)
     
     
     
